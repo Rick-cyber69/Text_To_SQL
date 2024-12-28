@@ -1,6 +1,6 @@
 # Text_To_SQL
-This project is a simple and interactive application that takes English questions as input and generates corresponding SQL queries using Google Gemini. It also executes these queries on a SQLite database and displays the results.
-<br>
+This project is a simple and interactive application that takes English questions as input and generates corresponding SQL queries using Google Gemini. It also executes these queries on a SQLite database and displays the results.<br>
+
 Features
 Natural Language to SQL: Converts natural language questions into SQL queries using the Google Gemini generative AI model.
 Database Integration: Runs generated SQL queries on a SQLite database (student.db).
